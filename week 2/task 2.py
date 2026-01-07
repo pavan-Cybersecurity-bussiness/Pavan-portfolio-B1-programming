@@ -1,7 +1,5 @@
 print("step 1")
-# My apologies for not reading the task earlier the current file name is Pavan-portfolio-B1-programming
-# unfortunately  I can't change the name of the repo and update it in the mooodle
-print("current repo name : Pavan-portfolio-B1-programming")
+print("current repo name : B1-programming")
 print("added read me file")
 print("Completed step 1")
 
