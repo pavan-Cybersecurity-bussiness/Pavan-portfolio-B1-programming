@@ -1,0 +1,59 @@
+{
+    "students": [
+        [
+            "a",
+            {
+                "score": 1,
+                "grade": "F"
+            }
+        ],
+        [
+            "1",
+            {
+                "score": 11,
+                "grade": "F"
+            }
+        ],
+        [
+            "1",
+            {
+                "score": 1,
+                "grade": "F"
+            }
+        ],
+        [
+            "1",
+            {
+                "score": 1,
+                "grade": "F"
+            }
+        ],
+        [
+            "1",
+            {
+                "score": 1,
+                "grade": "F"
+            }
+        ],
+        [
+            "1",
+            {
+                "score": 1,
+                "grade": "F"
+            }
+        ]
+    ],
+    "statistics": {
+        "highest": 11,
+        "lowest": 1,
+        "average": 2.6666666666666665
+    },
+    "unique_scores": [
+        1,
+        11
+    ],
+    "grade_distribution": {
+        "1": 5,
+        "11": 1
+    }
+}
