@@ -81,17 +81,17 @@ def validate_password(password):
             continue
 
         if data["passed"]:
-            print(f"{rule}: {data['true_msg']} ✅")
+            print(f"{rule}: {data['true_msg']} ")
         else:
-            print(f"{rule}: {data['false_msg']} ❌")
+            print(f"{rule}: {data['false_msg']} ")
 
 
 
 
     if results["is_valid"]:
-       print("\n✅ STRONG PASSWORD")
+       print(" STRONG PASSWORD")
     else:
-       print("\n❌ WEAK PASSWORD")
+       print(" WEAK PASSWORD")
     return ""
 
 print(validate_password("hello"))
