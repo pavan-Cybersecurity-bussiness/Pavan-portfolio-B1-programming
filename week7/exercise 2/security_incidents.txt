@@ -1,0 +1,65 @@
+SECURITY INCIDENTS REPORT
+======================================================================
+Total security incidents: 61
+
+Forbidden access attempt: 192.168.1.44 -> /admin
+Potential SQL injection: 88.23.91.14 -> /login?user=admin'--
+Brute force attempt from 10.0.0.15 - 3 failed attempts
+Forbidden access attempt: 10.0.0.22 -> /etc/passwd
+Potential SQL injection: 193.14.55.21 -> /products?id=4
+Forbidden access attempt: 172.16.8.77 -> /root
+Brute force attempt from 10.0.0.15 - 4 failed attempts
+Potential SQL injection: 66.92.13.5 -> /search?q=DROP
+Forbidden access attempt: 212.88.99.18 -> /admin/config
+Brute force attempt from 172.20.10.5 - 3 failed attempts
+Forbidden access attempt: 8.8.8.8 -> /private
+Potential SQL injection: 77.54.33.10 -> /login?password=admin;--
+Brute force attempt from 172.20.10.5 - 4 failed attempts
+Forbidden access attempt: 145.33.76.22 -> /hidden
+Potential SQL injection: 201.22.11.1 -> /products?category=select
+Forbidden access attempt: 33.12.44.10 -> /superuser
+Brute force attempt from 10.1.1.99 - 3 failed attempts
+Potential SQL injection: 91.15.23.48 -> /items?filter=union
+Forbidden access attempt: 100.100.100.10 -> /admin/backup
+Brute force attempt from 10.1.1.99 - 4 failed attempts
+Potential SQL injection: 44.22.11.9 -> /login?return_to=--DROP
+Forbidden access attempt: 10.20.30.40 -> /secure
+Brute force attempt from 192.168.1.15 - 3 failed attempts
+Potential SQL injection: 201.8.77.9 -> /query?name=insert
+Forbidden access attempt: 55.44.33.22 -> /hidden/console
+Brute force attempt from 192.168.1.15 - 4 failed attempts
+Potential SQL injection: 88.77.66.55 -> /test?value=select
+Forbidden access attempt: 9.9.9.9 -> /root/admin
+Brute force attempt from 192.168.2.22 - 3 failed attempts
+Potential SQL injection: 155.22.33.44 -> /login?attempt=admin'
+Forbidden access attempt: 22.33.44.55 -> /settings/system
+Brute force attempt from 192.168.2.22 - 4 failed attempts
+Potential SQL injection: 99.88.77.66 -> /site?id=union
+Forbidden access attempt: 111.111.111.111 -> /secure/config
+Brute force attempt from 172.30.50.25 - 3 failed attempts
+Potential SQL injection: 233.12.55.9 -> /login?password=';DROP
+Forbidden access attempt: 98.76.54.32 -> /private/system
+Brute force attempt from 172.30.50.25 - 4 failed attempts
+Potential SQL injection: 46.29.10.1 -> /items?filter=union--
+Forbidden access attempt: 123.45.67.89 -> /root/admin
+Brute force attempt from 172.30.99.100 - 3 failed attempts
+Potential SQL injection: 44.10.21.76 -> /query?text=drop
+Forbidden access attempt: 200.10.10.20 -> /admin/settings
+Brute force attempt from 172.30.99.100 - 4 failed attempts
+Potential SQL injection: 177.88.99.100 -> /api?cmd=insert
+Forbidden access attempt: 150.130.120.110 -> /root/files
+Brute force attempt from 192.168.100.50 - 3 failed attempts
+Potential SQL injection: 144.33.55.10 -> /q?id=select
+Forbidden access attempt: 10.10.10.10 -> /etc/shadow
+Brute force attempt from 192.168.100.50 - 4 failed attempts
+Potential SQL injection: 199.22.11.33 -> /test?cmd=union
+Forbidden access attempt: 155.155.155.155 -> /hidden/key
+Forbidden access attempt: 172.16.0.22 -> /root/private
+Potential SQL injection: 88.22.11.33 -> /data?x=select
+Brute force attempt from 192.168.50.11 - 3 failed attempts
+Forbidden access attempt: 90.12.33.44 -> /secure/settings
+Potential SQL injection: 101.55.77.99 -> /filter?q=union
+Brute force attempt from 192.168.50.11 - 4 failed attempts
+Forbidden access attempt: 200.200.200.200 -> /admin/root
+Potential SQL injection: 170.88.12.13 -> /api?search=drop
+Forbidden access attempt: 45.12.23.34 -> /root/bin

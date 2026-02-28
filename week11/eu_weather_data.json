@@ -1,0 +1,802 @@
+{
+    "Vienna": {
+        "country": "Austria",
+        "coordinates": {
+            "latitude": 48.2082,
+            "longitude": 16.3738
+        },
+        "current_weather": {
+            "temperature": 12.7,
+            "windspeed": 6.4,
+            "weathercode": 0,
+            "condition": "Clear sky",
+            "time": "2026-02-28T18:15"
+        },
+        "hourly_forecast": [
+            {
+                "time": "2026-02-28T00:00",
+                "temperature": 6.7,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T01:00",
+                "temperature": 6.2,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T02:00",
+                "temperature": 5.6,
+                "precipitation_probability": 0,
+                "weathercode": 2
+            },
+            {
+                "time": "2026-02-28T03:00",
+                "temperature": 5.0,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T04:00",
+                "temperature": 4.5,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T05:00",
+                "temperature": 4.1,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T06:00",
+                "temperature": 3.4,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T07:00",
+                "temperature": 3.1,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T08:00",
+                "temperature": 3.1,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T09:00",
+                "temperature": 4.2,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T10:00",
+                "temperature": 7.4,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T11:00",
+                "temperature": 9.4,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T12:00",
+                "temperature": 11.0,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T13:00",
+                "temperature": 12.8,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T14:00",
+                "temperature": 13.8,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T15:00",
+                "temperature": 14.3,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T16:00",
+                "temperature": 14.7,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T17:00",
+                "temperature": 14.2,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T18:00",
+                "temperature": 13.0,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T19:00",
+                "temperature": 11.7,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T20:00",
+                "temperature": 10.6,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T21:00",
+                "temperature": 9.6,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T22:00",
+                "temperature": 8.9,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T23:00",
+                "temperature": 8.0,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            }
+        ]
+    },
+    "Berlin": {
+        "country": "Germany",
+        "coordinates": {
+            "latitude": 52.52,
+            "longitude": 13.405
+        },
+        "current_weather": {
+            "temperature": 16.6,
+            "windspeed": 11.3,
+            "weathercode": 1,
+            "condition": "Mainly clear",
+            "time": "2026-02-28T18:15"
+        },
+        "hourly_forecast": [
+            {
+                "time": "2026-02-28T00:00",
+                "temperature": 11.5,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T01:00",
+                "temperature": 10.8,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T02:00",
+                "temperature": 10.4,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T03:00",
+                "temperature": 10.1,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T04:00",
+                "temperature": 9.3,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T05:00",
+                "temperature": 9.1,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T06:00",
+                "temperature": 8.9,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T07:00",
+                "temperature": 8.1,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T08:00",
+                "temperature": 8.1,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T09:00",
+                "temperature": 9.0,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T10:00",
+                "temperature": 11.6,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T11:00",
+                "temperature": 13.9,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T12:00",
+                "temperature": 16.2,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T13:00",
+                "temperature": 17.8,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T14:00",
+                "temperature": 18.9,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T15:00",
+                "temperature": 19.2,
+                "precipitation_probability": 0,
+                "weathercode": 2
+            },
+            {
+                "time": "2026-02-28T16:00",
+                "temperature": 18.8,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T17:00",
+                "temperature": 18.2,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T18:00",
+                "temperature": 16.9,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T19:00",
+                "temperature": 15.7,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T20:00",
+                "temperature": 14.5,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T21:00",
+                "temperature": 13.4,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T22:00",
+                "temperature": 12.8,
+                "precipitation_probability": 0,
+                "weathercode": 2
+            },
+            {
+                "time": "2026-02-28T23:00",
+                "temperature": 12.4,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            }
+        ]
+    },
+    "Paris": {
+        "country": "France",
+        "coordinates": {
+            "latitude": 48.8566,
+            "longitude": 2.3522
+        },
+        "current_weather": {
+            "temperature": 12.5,
+            "windspeed": 12.4,
+            "weathercode": 1,
+            "condition": "Mainly clear",
+            "time": "2026-02-28T18:15"
+        },
+        "hourly_forecast": [
+            {
+                "time": "2026-02-28T00:00",
+                "temperature": 11.4,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T01:00",
+                "temperature": 11.4,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T02:00",
+                "temperature": 10.8,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T03:00",
+                "temperature": 10.5,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T04:00",
+                "temperature": 10.8,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T05:00",
+                "temperature": 10.3,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T06:00",
+                "temperature": 9.7,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T07:00",
+                "temperature": 9.7,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T08:00",
+                "temperature": 9.4,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T09:00",
+                "temperature": 9.3,
+                "precipitation_probability": 0,
+                "weathercode": 2
+            },
+            {
+                "time": "2026-02-28T10:00",
+                "temperature": 10.3,
+                "precipitation_probability": 0,
+                "weathercode": 2
+            },
+            {
+                "time": "2026-02-28T11:00",
+                "temperature": 10.9,
+                "precipitation_probability": 0,
+                "weathercode": 2
+            },
+            {
+                "time": "2026-02-28T12:00",
+                "temperature": 11.4,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T13:00",
+                "temperature": 12.3,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T14:00",
+                "temperature": 13.4,
+                "precipitation_probability": 0,
+                "weathercode": 2
+            },
+            {
+                "time": "2026-02-28T15:00",
+                "temperature": 14.0,
+                "precipitation_probability": 0,
+                "weathercode": 2
+            },
+            {
+                "time": "2026-02-28T16:00",
+                "temperature": 13.8,
+                "precipitation_probability": 0,
+                "weathercode": 2
+            },
+            {
+                "time": "2026-02-28T17:00",
+                "temperature": 13.4,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T18:00",
+                "temperature": 12.7,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T19:00",
+                "temperature": 11.7,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T20:00",
+                "temperature": 10.6,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T21:00",
+                "temperature": 9.8,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T22:00",
+                "temperature": 9.4,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T23:00",
+                "temperature": 8.7,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            }
+        ]
+    },
+    "Rome": {
+        "country": "Italy",
+        "coordinates": {
+            "latitude": 41.9028,
+            "longitude": 12.4964
+        },
+        "current_weather": {
+            "temperature": 14.1,
+            "windspeed": 7.0,
+            "weathercode": 0,
+            "condition": "Clear sky",
+            "time": "2026-02-28T18:15"
+        },
+        "hourly_forecast": [
+            {
+                "time": "2026-02-28T00:00",
+                "temperature": 11.2,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T01:00",
+                "temperature": 10.8,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T02:00",
+                "temperature": 9.9,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T03:00",
+                "temperature": 9.0,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T04:00",
+                "temperature": 9.0,
+                "precipitation_probability": 0,
+                "weathercode": 45
+            },
+            {
+                "time": "2026-02-28T05:00",
+                "temperature": 8.4,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T06:00",
+                "temperature": 7.9,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T07:00",
+                "temperature": 7.7,
+                "precipitation_probability": 0,
+                "weathercode": 45
+            },
+            {
+                "time": "2026-02-28T08:00",
+                "temperature": 7.6,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T09:00",
+                "temperature": 9.4,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T10:00",
+                "temperature": 12.0,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T11:00",
+                "temperature": 14.3,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T12:00",
+                "temperature": 15.8,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T13:00",
+                "temperature": 17.1,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T14:00",
+                "temperature": 17.6,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T15:00",
+                "temperature": 17.8,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T16:00",
+                "temperature": 17.3,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T17:00",
+                "temperature": 16.1,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T18:00",
+                "temperature": 14.5,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T19:00",
+                "temperature": 13.2,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T20:00",
+                "temperature": 12.3,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T21:00",
+                "temperature": 11.7,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T22:00",
+                "temperature": 10.7,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T23:00",
+                "temperature": 9.7,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            }
+        ]
+    },
+    "Madrid": {
+        "country": "Spain",
+        "coordinates": {
+            "latitude": 40.4168,
+            "longitude": -3.7038
+        },
+        "current_weather": {
+            "temperature": 16.3,
+            "windspeed": 6.4,
+            "weathercode": 0,
+            "condition": "Clear sky",
+            "time": "2026-02-28T18:15"
+        },
+        "hourly_forecast": [
+            {
+                "time": "2026-02-28T00:00",
+                "temperature": 10.6,
+                "precipitation_probability": 0,
+                "weathercode": 2
+            },
+            {
+                "time": "2026-02-28T01:00",
+                "temperature": 9.7,
+                "precipitation_probability": 3,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T02:00",
+                "temperature": 9.4,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T03:00",
+                "temperature": 9.3,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T04:00",
+                "temperature": 8.6,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T05:00",
+                "temperature": 8.4,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T06:00",
+                "temperature": 8.3,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T07:00",
+                "temperature": 7.8,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T08:00",
+                "temperature": 7.3,
+                "precipitation_probability": 0,
+                "weathercode": 2
+            },
+            {
+                "time": "2026-02-28T09:00",
+                "temperature": 7.7,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T10:00",
+                "temperature": 9.7,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T11:00",
+                "temperature": 11.9,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T12:00",
+                "temperature": 13.5,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T13:00",
+                "temperature": 14.8,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T14:00",
+                "temperature": 15.8,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T15:00",
+                "temperature": 16.6,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T16:00",
+                "temperature": 17.0,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T17:00",
+                "temperature": 16.9,
+                "precipitation_probability": 0,
+                "weathercode": 1
+            },
+            {
+                "time": "2026-02-28T18:00",
+                "temperature": 16.5,
+                "precipitation_probability": 0,
+                "weathercode": 0
+            },
+            {
+                "time": "2026-02-28T19:00",
+                "temperature": 15.7,
+                "precipitation_probability": 0,
+                "weathercode": 2
+            },
+            {
+                "time": "2026-02-28T20:00",
+                "temperature": 14.2,
+                "precipitation_probability": 0,
+                "weathercode": 2
+            },
+            {
+                "time": "2026-02-28T21:00",
+                "temperature": 13.0,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T22:00",
+                "temperature": 12.0,
+                "precipitation_probability": 0,
+                "weathercode": 3
+            },
+            {
+                "time": "2026-02-28T23:00",
+                "temperature": 11.1,
+                "precipitation_probability": 0,
+                "weathercode": 2
+            }
+        ]
+    }
+}

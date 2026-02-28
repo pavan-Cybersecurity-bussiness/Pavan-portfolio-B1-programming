@@ -1,0 +1,24 @@
+======================================================================
+SECURITY INCIDENTS REPORT
+======================================================================
+
+Total Security Incidents: 5
+
+BRUTE FORCE ATTEMPTS
+----------------------------------------------------------------------
+IP: 203.0.113.77 - 5 failed login attempts
+
+FORBIDDEN ACCESS ATTEMPTS
+----------------------------------------------------------------------
+Forbidden access attempt: 192.168.1.102 -> /admin
+Forbidden access attempt: 198.51.100.42 -> /admin
+
+ALL SECURITY INCIDENTS
+----------------------------------------------------------------------
+Forbidden access attempt: 192.168.1.102 -> /admin
+Brute force attempt from 203.0.113.77 - 3 failed attempts
+Brute force attempt from 203.0.113.77 - 4 failed attempts
+Brute force attempt from 203.0.113.77 - 5 failed attempts
+Forbidden access attempt: 198.51.100.42 -> /admin
+
+======================================================================

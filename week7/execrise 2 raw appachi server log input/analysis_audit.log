@@ -1,0 +1,28 @@
+2026-02-28 16:31:57,458 - INFO - Starting analysis of server.log
+2026-02-28 16:31:57,458 - ERROR - Log file 'server.log' not found
+2026-02-28 16:31:57,458 - CRITICAL - Analysis failed: [Errno 2] No such file or directory: 'server.log'
+2026-02-28 16:33:30,262 - INFO - Starting analysis of server.log
+2026-02-28 16:33:30,262 - INFO - Analysis complete: 0 requests processed
+2026-02-28 16:33:30,264 - INFO - Summary report generated
+2026-02-28 16:33:30,265 - INFO - Security report generated
+2026-02-28 16:33:30,265 - INFO - Error log generated
+2026-02-28 16:39:13,972 - INFO - Starting analysis of server.log
+2026-02-28 16:39:13,972 - INFO - Analysis complete: 0 requests processed
+2026-02-28 16:39:13,973 - INFO - Summary report generated
+2026-02-28 16:39:13,973 - INFO - Security report generated
+2026-02-28 16:39:13,973 - INFO - Error log generated
+2026-02-28 16:41:19,468 - INFO - Starting analysis of server.log
+2026-02-28 16:41:19,468 - INFO - Analysis complete: 0 requests processed
+2026-02-28 16:41:19,468 - INFO - Summary report generated
+2026-02-28 16:41:19,468 - INFO - Security report generated
+2026-02-28 16:41:19,468 - INFO - Error log generated
+2026-02-28 16:58:13,575 - INFO - Starting analysis of server.log
+2026-02-28 16:58:13,576 - WARNING - Forbidden access attempt: 192.168.1.102 -> /admin
+2026-02-28 16:58:13,576 - WARNING - Brute force attempt from 203.0.113.77 - 3 failed attempts
+2026-02-28 16:58:13,576 - WARNING - Brute force attempt from 203.0.113.77 - 4 failed attempts
+2026-02-28 16:58:13,576 - WARNING - Brute force attempt from 203.0.113.77 - 5 failed attempts
+2026-02-28 16:58:13,576 - WARNING - Forbidden access attempt: 198.51.100.42 -> /admin
+2026-02-28 16:58:13,576 - INFO - Analysis complete: 20 requests processed
+2026-02-28 16:58:13,576 - INFO - Summary report generated
+2026-02-28 16:58:13,577 - INFO - Security report generated
+2026-02-28 16:58:13,577 - INFO - Error log generated

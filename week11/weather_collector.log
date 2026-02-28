@@ -1,0 +1,8 @@
+2026-02-28 22:57:37,740 [INFO] Starting EU Capitals Weather Collection
+2026-02-28 22:57:37,740 [INFO] Fetching weather for Vienna
+2026-02-28 22:57:39,808 [INFO] Fetching weather for Berlin
+2026-02-28 22:57:41,197 [INFO] Fetching weather for Paris
+2026-02-28 22:57:42,901 [INFO] Fetching weather for Rome
+2026-02-28 22:57:44,305 [INFO] Fetching weather for Madrid
+2026-02-28 22:57:45,906 [INFO] Weather data collection complete.
+2026-02-28 22:57:45,906 [INFO] Output saved to eu_weather_data.json

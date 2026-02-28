@@ -1,0 +1,9 @@
+ERROR LOG
+======================================================================
+Total errors: 5
+
+Line 121: Error processing - invalid literal for int() with base 10: '-'
+Line 122: Error processing - not enough values to unpack
+Line 123: Error processing - unexpected end of string
+Line 124: Error processing - list index out of range
+Line 125: Error processing - could not convert string to float: 'abc'
